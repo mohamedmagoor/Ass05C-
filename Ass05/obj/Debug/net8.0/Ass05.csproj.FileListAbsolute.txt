@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Ass05\Ass05\Ass05\bin\Debug\net8.0\Ass05.exe
+C:\Users\DELL\Desktop\Ass05\Ass05\Ass05\bin\Debug\net8.0\Ass05.deps.json
+C:\Users\DELL\Desktop\Ass05\Ass05\Ass05\bin\Debug\net8.0\Ass05.runtimeconfig.json
+C:\Users\DELL\Desktop\Ass05\Ass05\Ass05\bin\Debug\net8.0\Ass05.dll
+C:\Users\DELL\Desktop\Ass05\Ass05\Ass05\bin\Debug\net8.0\Ass05.pdb
+C:\Users\DELL\Desktop\Ass05\Ass05\Ass05\obj\Debug\net8.0\Ass05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Ass05\Ass05\Ass05\obj\Debug\net8.0\Ass05.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Ass05\Ass05\Ass05\obj\Debug\net8.0\Ass05.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Ass05\Ass05\Ass05\obj\Debug\net8.0\Ass05.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Ass05\Ass05\Ass05\obj\Debug\net8.0\Ass05.sourcelink.json
+C:\Users\DELL\Desktop\Ass05\Ass05\Ass05\obj\Debug\net8.0\Ass05.dll
+C:\Users\DELL\Desktop\Ass05\Ass05\Ass05\obj\Debug\net8.0\refint\Ass05.dll
+C:\Users\DELL\Desktop\Ass05\Ass05\Ass05\obj\Debug\net8.0\Ass05.pdb
+C:\Users\DELL\Desktop\Ass05\Ass05\Ass05\obj\Debug\net8.0\Ass05.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Ass05\Ass05\Ass05\obj\Debug\net8.0\ref\Ass05.dll
